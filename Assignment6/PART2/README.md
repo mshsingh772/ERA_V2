@@ -15,7 +15,7 @@ Model summary for new model architecture
 
 Model Accuracy
 
-![Model Accuracy](imgs/accuracy.PNG)
+![Model Accuracy](imgs/accuracy.png)
 
 ## Logs
 
