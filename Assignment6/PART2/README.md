@@ -1,7 +1,7 @@
 
 # ERA - Assignment 6
 
-This repo is the solution for the ERA v1 assignment 6.   
+This repo is the solution for the ERA v2 assignment 6.   
 The new architecture for model achieves accuracy of 99.44% with 16k parameters in 20 epochs. As per suggested in the lecture, we have used batch normalisation and drop out after every layer,
 except before the final layer. Max pool layer is used only twice and Global average pooling layer is final layer before softmax. Batch size is take as 64 as per the graph.
 

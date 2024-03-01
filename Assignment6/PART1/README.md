@@ -1,7 +1,7 @@
 
 # ERA - Assignment 6
 
-This repo is the solution for the ERA v1 assignment 6.   
+This repo is the solution for the ERA v2 assignment 6.   
 Here we demonstrate the back-propagation for updation of weights considering the simple neural network. The following are the steps followed:
 1) i1 and i2 forms the input layer 
 2) w1 and w3 are weights from i1 to h1 and h2 correspondingly, similarly we have weights w2 and w4 from i2 to h1 and h2.
